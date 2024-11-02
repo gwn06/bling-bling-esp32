@@ -5,8 +5,8 @@
 
 LiquidCrystal_I2C lcd(0x27,16,2);
 
-const char* ssid = "Asst, Principal Office";
-const char* password = "Admin@1234";
+const char* ssid = "";
+const char* password = "";
 
 #define DATABASE_URL "URL"
 
